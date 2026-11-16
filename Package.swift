@@ -30,7 +30,7 @@ let package = Package(
         // to, and it is ours.
         .binaryTarget(
             name: "RustLiveKitUniFFI",
-            url: "https://github.com/apploomadev/iOS-UniFFI/releases/download/0.1.9/RustLiveKitUniFFI.xcframework.zip",
+            url: "https://github.com/AppLooma-RTC/iOS-UniFFI/releases/download/0.1.9/RustLiveKitUniFFI.xcframework.zip",
             checksum: "8db93e8ccd9f22263c39855808da48a4d6b5d620d8f6e43ab4501ede847b23eb"
         )
     ]
